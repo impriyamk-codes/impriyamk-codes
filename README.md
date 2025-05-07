@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Priyam Kundu</h1>
 <h3 align="center">A passionate computer science student from India</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=impriyamk-codes&label=Profile%20views&color=0e75b6&style=flat" alt="impriyamk-codes" />
 </p>
 
 ---
 
 - 🔭 I’m currently working on Web Development
-- 📫 Reach me at: **yimpriyam.kworks@gmail.com**
+- 📫 Reach me at: **impriyam.kworks@gmail.com**
 - 📍 Based in **Bhopal, India**
 ---
 
@@ -33,6 +33,7 @@
 </p>
 
 ---
+
 
 ### 🔗 Connect with me:
 
