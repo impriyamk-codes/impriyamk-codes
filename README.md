@@ -2,14 +2,18 @@
 <p align="center"><b>Engineer • Graphic Designer • Researcher</b></p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=impriyamk-codes&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/priyam-kundu-62834328a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:impriyam.kworks@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-###  Core Focus
-B.Tech CSE Student focused on AI-driven accessibility and Scalable Web Systems. Committed to building intelligent, design-aware tech that solves real-world communication and verification challenges.
+### 🚀 Core Focus
+**8th-Sem B.Tech CSE Student** focused on **AI-driven accessibility** and **Scalable Web Systems**. Committed to building intelligent, design-aware tech that solves real-world communication and verification challenges.
 
 * **Development:** Scalable web solutions and intelligent system architecture.
 * **Visual Communication:** Experienced Graphic Designer focusing on brand identity and social media content.
@@ -17,7 +21,7 @@ B.Tech CSE Student focused on AI-driven accessibility and Scalable Web Systems. 
 
 ---
 
-###  Professional Inventory
+### 🛠️ Professional Inventory
 
 | **Field** | **Technologies** |
 | :--- | :--- |
@@ -28,7 +32,7 @@ B.Tech CSE Student focused on AI-driven accessibility and Scalable Web Systems. 
 
 ---
 
-###  Featured Repositories
+### 💎 Featured Repositories
 
 <div align="center">
 
@@ -41,7 +45,7 @@ B.Tech CSE Student focused on AI-driven accessibility and Scalable Web Systems. 
 
 ---
 
-###  Performance Metrics
+### 📊 Performance Metrics
 
 <p align="center">
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=impriyamk-codes&show_icons=true&theme=tokyonight&hide_border=true" />
