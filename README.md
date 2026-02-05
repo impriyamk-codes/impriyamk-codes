@@ -48,14 +48,13 @@
 ### 📊 Performance Metrics
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=impriyamk-codes&show_icons=true&theme=tokyonight&hide_border=true" />
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=impriyamk-codes&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=impriyamk-codes&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=impriyamk-codes&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=impriyamk-codes&theme=tokyonight&hide_border=true" width="90%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=impriyamk-codes&theme=tokyonight&hide_border=true&cache_seconds=1800" width="90%" />
 </p>
-
 ---
 
 <p align="center">
