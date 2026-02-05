@@ -11,7 +11,7 @@
 ###  Core Focus
 B.Tech CSE Student focused on AI-driven accessibility and Scalable Web Systems. Committed to building intelligent, design-aware tech that solves real-world communication and verification challenges.
 
-* **AI & Computer Vision:** Developing `ASL-Detection` and `TrueSight-AI`.
+* **Development:** Scalable web solutions and intelligent system architecture.
 * **Visual Communication:** Experienced Graphic Designer focusing on brand identity and social media content.
 * **Infrastructure:** AWS-focused architecture and cloud-based deployment.
 
