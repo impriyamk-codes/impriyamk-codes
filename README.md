@@ -11,7 +11,9 @@
 </p>
 
 ---
-# [▶️ Watch My Intro](https://drive.google.com/file/d/1XGuV51fJPqcFJ3LZWOoR_Q7UNORzUFbZ/view?usp=sharing)
+<p align="center">
+  <a href="https://drive.google.com/file/d/1XGuV51fJPqcFJ3LZWOoR_Q7UNORzUFbZ/view?usp=sharing">▶️ Watch My Intro</a>
+</p>
 
 
 ### 🚀 Core Focus
