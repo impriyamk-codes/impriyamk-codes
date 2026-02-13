@@ -11,6 +11,10 @@
 </p>
 
 ---
+## 🎥 Introduction
+
+<video src="intro.mp4" controls width="600"></video>
+
 
 ### 🚀 Core Focus
 **8th-Sem B.Tech CSE Student** focused on **AI-driven accessibility** and **Scalable Web Systems**. Committed to building intelligent, design-aware tech that solves real-world communication and verification challenges.
