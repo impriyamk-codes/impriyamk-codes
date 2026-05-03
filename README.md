@@ -59,7 +59,7 @@ Focused on building systems that translate complex AI into usable, real-world so
 | **Field** | **Technologies** |
 | :--- | :--- |
 | **Intelligence** | `TensorFlow` • `OpenCV` • `Flask` • `Python` • `NumPy` |
-| **Development** | `C++` • `Java` • `JavaScript` |
+| **Development** | `C++` • `Java`|
 | **Design & CMS** | `WordPress` • `Figma` • `Adobe Photoshop` • `Canva` |
 | **Ops & Cloud** | `AWS` • `Git` • `Azure` |
 
