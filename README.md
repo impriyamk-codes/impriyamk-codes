@@ -2,30 +2,59 @@
 <p align="center"><b>Engineer • Graphic Designer • Researcher</b></p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=impriyamk-codes&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/priyam-kundu-62834328a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:impriyam.kworks@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/priyam-kundu-62834328a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:impriyam.kworks@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
-<p align="center">
-  <a href="https://drive.google.com/file/d/1XGuV51fJPqcFJ3LZWOoR_Q7UNORzUFbZ/view?usp=sharing">▶️ Watch My Intro</a>
-</p>
 
-
-### 🚀 Core Focus
-**8th-Sem B.Tech CSE Student** focused on **AI-driven accessibility** and **Scalable Web Systems**. Committed to building intelligent, design-aware tech that solves real-world communication and verification challenges.
-
-* **Development:** Scalable web solutions and intelligent system architecture.
-* **Visual Communication:** Experienced Graphic Designer focusing on brand identity and social media content.
-* **Infrastructure:** AWS-focused architecture and cloud-based deployment.
+Final-year B.Tech CSE student building **AI-driven accessibility solutions** and **scalable systems**.  
+Focused on building systems that translate complex AI into usable, real-world solutions.
 
 ---
 
-### 🛠️ Professional Inventory
+####  All Projects
+
+<details>
+  <summary> Machine Learning & AI</summary>
+
+  <h4><a href="https://github.com/impriyamk-codes/TrueSight-AI">TrueSight AI</a></h4>
+  <p> AI-based system for intelligent verification and decision support.</p>
+
+  <h4><a href="https://github.com/impriyamk-codes/BERT-Ablation-Study">BERT Ablation Study</a></h4>
+  <p> Experimental analysis of BERT components to understand performance impact.</p>
+
+  <h4><a href="https://github.com/pratyaksha0612/Text-Speech-to-ASL-ISL">Text/Speech to ASL-ISL</a></h4>
+  <p> Converts text and speech into sign language for accessibility.</p>
+
+  <h4><a href="https://github.com/pratyaksha0612/ASL-Detection">ASL Detection</a></h4>
+  <p> Computer vision-based sign language recognition system.</p>
+
+</details>
+
+<details>
+  <summary> Systems & Performance</summary>
+
+  <h4><a href="https://github.com/impriyamk-codes/Latency-Inference-Engine">Latency Inference Engine</a></h4>
+  <p> Analyzes and optimizes inference latency in ML pipelines.</p>
+
+</details>
+
+<details>
+  <summary> Applications</summary>
+
+  <h4><a href="https://github.com/impriyamk-codes/document-scanner">Document Scanner</a></h4>
+  <p> Web-based document scanning and processing tool.</p>
+
+</details>
+
+---
+
+###  Professional Inventory
 
 | **Field** | **Technologies** |
 | :--- | :--- |
@@ -36,25 +65,16 @@
 
 ---
 
-### 💎 Featured Repositories
+###  Featured Work
 
-<div align="center">
+####  BERT Ablation Study  
+[🔗 View Repository](https://github.com/impriyamk-codes/BERT-Ablation-Study)  
 
-| [**TrueSight-AI**](https://github.com/impriyamk-codes/TrueSight-AI) | [**ASL-Detection**](https://github.com/pratyaksha0612/ASL-Detection) |
-| :--- | :--- |
-| **Fake News Detection** | **Real-time Sign Language Translation** |
-| *ML-driven verification of digital content.* | *Computer Vision system for accessibility.* |
+Study of BERT components and their impact on model performance.
 
-</div>
+####  Latency Inference Engine  
+[🔗 View Repository](https://github.com/impriyamk-codes/Latency-Inference-Engine)  
+
+ Focused on improving inference efficiency in ML systems.
 
 ---
-
-### 📊 Performance Metrics
-
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=impriyamk-codes&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <i>Bhopal, India • 8th Sem B.Tech CSE • Open for Collaboration</i>
-</p>
