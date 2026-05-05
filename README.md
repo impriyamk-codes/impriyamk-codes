@@ -12,6 +12,25 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+</p>
+<p align="center">
+  <picture>
+    <!-- Dark mode -->
+    <source
+      srcset="https://komarev.com/ghpvc/?username=impriyamk-codes&label=Profile%20Views&color=09193b&style=flat"
+      media="(prefers-color-scheme: dark)"
+    />
+    <!-- Light mode -->
+    <source
+      srcset="https://komarev.com/ghpvc/?username=impriyamk-codes&label=Profile%20Views&color=93C5FD&style=flat&labelColor=3c5280"
+      media="(prefers-color-scheme: light)"
+    />
+    <img
+      src="https://komarev.com/ghpvc/?username=impriyamk-codes&label=Profile%20Views&color=93C5FD&style=flat"
+      alt="Profile Views"
+    />
+  </picture>
+</p>
 
 ---
 
